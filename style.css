@@ -59,18 +59,16 @@ text-decoration: none;
 	background-color: #e0dede;
 }
 .summary{
-	height: 500px;
-	flex: 30%
+	height: 1100px;
+	 width: 30%;
 }
 .mary{
-	height: 500px;
-	flex: 70%
+	height: 1100px;
+	width: 695%;
+	background-color: #ffffff;
 }
 
 .ph{
 	background-color: #aaa;
 	flex-direction: column-reverse;
-}
-.mary{
-		background-color: #ffffff;
 }
